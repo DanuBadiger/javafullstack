@@ -1,0 +1,10 @@
+package finallykeword;
+
+public class FinallyBlockDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
